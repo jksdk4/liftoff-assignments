@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- ![Index](1.pdf)
+- ![Individual State Page](2.pdf)
+- ![Search/List Page](3.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Link to Trello](https://trello.com/b/Wkj41JFk/liftoff-rise-of-d3)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/jksdk4/us-state-county-education-data.git
