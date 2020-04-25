@@ -7,4 +7,5 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+
+[Github Link](https://github.com/jksdk4/us-state-county-education-data.git)
