@@ -18,4 +18,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-https://github.com/jksdk4/us-state-county-education-data.git
+## Note! This project has structurally changed significantly; this is now the active repository.
+
+https://github.com/jksdk4/US-Educational-Attainment.git
+
+## Original repository
+
+~~https://github.com/jksdk4/us-state-county-education-data.git~~
